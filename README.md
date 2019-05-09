@@ -1,5 +1,4 @@
 # texturepacker_split
-把png、plist格式图集还原为碎图
 
 #!python v2.7
 # 1、 依赖于 PIL 库
